@@ -98,9 +98,9 @@ We built an end-to-end pipeline that doesn’t just *read* documents—it *under
 ---
 
 ### 👥 **The Team Behind the Magic**  
-*[Your Name]* – Full-Stack Visionary  
-*[Teammate Name]* – AI/OCR Specialist  
-*[Teammate Name]* – Supabase/Backend Wizard  
+*KRISHAN KANT – Full-Stack Visionary  
+*[KRISHAN KANT]* – AI/OCR Specialist  
+*[KRISHAN KANT]* – Supabase/Backend Wizard  
 
 *Built with ☕️ and determination for SIH 2026. Because land rights aren’t paperwork—they’re livelihoods.*  
 
